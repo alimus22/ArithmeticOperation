@@ -18,14 +18,14 @@ public class ArithmeticOperationsTest {
 
 	}
     @Test
-    public void testSub()
-    {
+//     public void testSub()
+//     {
 
-        ArithmeticOperations operations = new ArithmeticOperations();
-        Integer actual = operations.addOrSub(6, 2);
-        Integer expected = 4;
-        assertEquals(expected, actual);
+//         ArithmeticOperations operations = new ArithmeticOperations();
+//         Integer actual = operations.addOrSub(6, 2);
+//         Integer expected = 4;
+//         assertEquals(expected, actual);
 
-    }
+//     }
 
 }
